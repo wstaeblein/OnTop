@@ -1,0 +1,38 @@
+G:\Desenvolvimento\(DotNet Lab)\OnTop\OnTop\bin\Release\OnTop.exe.config
+G:\Desenvolvimento\(DotNet Lab)\OnTop\OnTop\bin\Release\OnTop.exe
+G:\Desenvolvimento\(DotNet Lab)\OnTop\OnTop\bin\Release\OnTop.pdb
+G:\Desenvolvimento\(DotNet Lab)\OnTop\OnTop\bin\Release\OnTop.xml
+G:\Desenvolvimento\(DotNet Lab)\OnTop\OnTop\obj\Release\OnTop.frmMain.resources
+G:\Desenvolvimento\(DotNet Lab)\OnTop\OnTop\obj\Release\OnTop.frmAbout.resources
+G:\Desenvolvimento\(DotNet Lab)\OnTop\OnTop\obj\Release\OnTop.frmSettings.resources
+G:\Desenvolvimento\(DotNet Lab)\OnTop\OnTop\obj\Release\OnTop.Resources.resources
+G:\Desenvolvimento\(DotNet Lab)\OnTop\OnTop\obj\Release\OnTop.vbproj.GenerateResource.Cache
+G:\Desenvolvimento\(DotNet Lab)\OnTop\OnTop\obj\Release\OnTop.exe
+G:\Desenvolvimento\(DotNet Lab)\OnTop\OnTop\obj\Release\OnTop.xml
+G:\Desenvolvimento\(DotNet Lab)\OnTop\OnTop\obj\Release\OnTop.pdb
+C:\Users\walter\Desktop\OnTop\ontop\bin\Release\OnTop.exe.config
+C:\Users\walter\Desktop\OnTop\ontop\bin\Release\OnTop.exe
+C:\Users\walter\Desktop\OnTop\ontop\bin\Release\OnTop.pdb
+C:\Users\walter\Desktop\OnTop\ontop\bin\Release\OnTop.xml
+C:\Users\walter\Desktop\OnTop\ontop\obj\Release\ResolveAssemblyReference.cache
+C:\Users\walter\Desktop\OnTop\ontop\obj\Release\OnTop.frmMain.resources
+C:\Users\walter\Desktop\OnTop\ontop\obj\Release\OnTop.frmAbout.resources
+C:\Users\walter\Desktop\OnTop\ontop\obj\Release\OnTop.frmSettings.resources
+C:\Users\walter\Desktop\OnTop\ontop\obj\Release\OnTop.Resources.resources
+C:\Users\walter\Desktop\OnTop\ontop\obj\Release\OnTop.vbproj.GenerateResource.Cache
+C:\Users\walter\Desktop\OnTop\ontop\obj\Release\OnTop.exe
+C:\Users\walter\Desktop\OnTop\ontop\obj\Release\OnTop.xml
+C:\Users\walter\Desktop\OnTop\ontop\obj\Release\OnTop.pdb
+F:\Dados\Dropbox\Codigo\OnTop\OnTop\bin\Release\OnTop.exe.config
+F:\Dados\Dropbox\Codigo\OnTop\OnTop\bin\Release\OnTop.exe
+F:\Dados\Dropbox\Codigo\OnTop\OnTop\bin\Release\OnTop.pdb
+F:\Dados\Dropbox\Codigo\OnTop\OnTop\bin\Release\OnTop.xml
+F:\Dados\Dropbox\Codigo\OnTop\OnTop\obj\Release\ResolveAssemblyReference.cache
+F:\Dados\Dropbox\Codigo\OnTop\OnTop\obj\Release\OnTop.frmMain.resources
+F:\Dados\Dropbox\Codigo\OnTop\OnTop\obj\Release\OnTop.frmAbout.resources
+F:\Dados\Dropbox\Codigo\OnTop\OnTop\obj\Release\OnTop.frmSettings.resources
+F:\Dados\Dropbox\Codigo\OnTop\OnTop\obj\Release\OnTop.Resources.resources
+F:\Dados\Dropbox\Codigo\OnTop\OnTop\obj\Release\OnTop.vbproj.GenerateResource.Cache
+F:\Dados\Dropbox\Codigo\OnTop\OnTop\obj\Release\OnTop.exe
+F:\Dados\Dropbox\Codigo\OnTop\OnTop\obj\Release\OnTop.xml
+F:\Dados\Dropbox\Codigo\OnTop\OnTop\obj\Release\OnTop.pdb

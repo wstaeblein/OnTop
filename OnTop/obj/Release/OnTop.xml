@@ -1,0 +1,90 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+OnTop
+</name>
+</assembly>
+<members>
+<member name="P:OnTop.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:OnTop.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:OnTop.My.Resources.Resources.BrainTime200">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:OnTop.My.Resources.Resources.glyphicons_063_power">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:OnTop.My.Resources.Resources.glyphicons_136_cogwheel">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:OnTop.My.Resources.Resources.glyphicons_173_play">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:OnTop.My.Resources.Resources.glyphicons_174_pause">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:OnTop.My.Resources.Resources.glyphicons_190_circle_plus">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:OnTop.My.Resources.Resources.glyphicons_195_circle_info">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:OnTop.My.Resources.Resources.Gnome_Go_Top">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:OnTop.My.Resources.Resources.Gnome_Go_Top_64">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:OnTop.My.Resources.Resources.OnTop">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member><member name="P:OnTop.My.Resources.Resources.OnTop_dis">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member><member name="T:OnTop.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="M:OnTop.frmMain.SetVisibleCore(System.Boolean)">
+	<summary>
+ Faz o form iniciar invisível
+ </summary>
+	<param name="value"></param>
+	<remarks></remarks>
+</member><member name="M:OnTop.frmMain.HookCallback(System.Int32,System.IntPtr,System.IntPtr)">
+	<summary>
+ Callback do hook universal de teclado
+ </summary>
+	<param name="nCode"></param>
+	<param name="wParam"></param>
+	<param name="lParam"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:OnTop.frmMain.IsTopMost(System.Int32)">
+	<summary>
+ Determina se a janela passada está com o atributo TopMost setado
+ </summary>
+	<param name="Handle">Handle da janela</param>
+	<returns>True se o atributo estiver setado</returns>
+	<remarks></remarks>
+</member>
+</members>
+</doc>

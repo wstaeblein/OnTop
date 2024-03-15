@@ -1,0 +1,37 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+OnTop
+</name>
+</assembly>
+<members>
+<member name="M:OnTop.frmMain.SetVisibleCore(System.Boolean)">
+	<summary>
+ Faz o form iniciar invisível
+ </summary>
+	<param name="value"></param>
+	<remarks></remarks>
+</member><member name="M:OnTop.frmMain.IsTopMost(System.Int32)">
+	<summary>
+ Determina se a janela passada está com o atributo TopMost setado
+ </summary>
+	<param name="Handle">Handle da janela</param>
+	<returns>True se o atributo estiver setado</returns>
+	<remarks></remarks>
+</member><member name="P:OnTop.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:OnTop.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:OnTop.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

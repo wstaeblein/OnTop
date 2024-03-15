@@ -1,0 +1,51 @@
+G:\Desenvolvimento\(WWW Lab)\OnTop\OnTop\bin\Debug\OnTop.exe
+G:\Desenvolvimento\(WWW Lab)\OnTop\OnTop\bin\Debug\OnTop.pdb
+G:\Desenvolvimento\(WWW Lab)\OnTop\OnTop\bin\Debug\OnTop.xml
+G:\Desenvolvimento\(WWW Lab)\OnTop\OnTop\obj\Debug\ResolveAssemblyReference.cache
+G:\Desenvolvimento\(WWW Lab)\OnTop\OnTop\obj\Debug\OnTop.Resources.resources
+G:\Desenvolvimento\(WWW Lab)\OnTop\OnTop\obj\Debug\OnTop.vbproj.GenerateResource.Cache
+G:\Desenvolvimento\(WWW Lab)\OnTop\OnTop\obj\Debug\OnTop.exe
+G:\Desenvolvimento\(WWW Lab)\OnTop\OnTop\obj\Debug\OnTop.xml
+G:\Desenvolvimento\(WWW Lab)\OnTop\OnTop\obj\Debug\OnTop.pdb
+G:\Desenvolvimento\(WWW Lab)\OnTop\OnTop\obj\Debug\OnTop.frmMain.resources
+G:\Desenvolvimento\(WWW Lab)\OnTop\OnTop\obj\Debug\OnTop.frmAbout.resources
+G:\Desenvolvimento\(WWW Lab)\OnTop\OnTop\obj\Debug\OnTop.frmSettings.resources
+G:\Desenvolvimento\(DotNet Lab)\OnTop\OnTop\bin\Debug\OnTop.exe
+G:\Desenvolvimento\(DotNet Lab)\OnTop\OnTop\bin\Debug\OnTop.pdb
+G:\Desenvolvimento\(DotNet Lab)\OnTop\OnTop\bin\Debug\OnTop.xml
+G:\Desenvolvimento\(DotNet Lab)\OnTop\OnTop\obj\Debug\ResolveAssemblyReference.cache
+G:\Desenvolvimento\(DotNet Lab)\OnTop\OnTop\obj\Debug\OnTop.frmMain.resources
+G:\Desenvolvimento\(DotNet Lab)\OnTop\OnTop\obj\Debug\OnTop.frmAbout.resources
+G:\Desenvolvimento\(DotNet Lab)\OnTop\OnTop\obj\Debug\OnTop.frmSettings.resources
+G:\Desenvolvimento\(DotNet Lab)\OnTop\OnTop\obj\Debug\OnTop.Resources.resources
+G:\Desenvolvimento\(DotNet Lab)\OnTop\OnTop\obj\Debug\OnTop.vbproj.GenerateResource.Cache
+G:\Desenvolvimento\(DotNet Lab)\OnTop\OnTop\obj\Debug\OnTop.exe
+G:\Desenvolvimento\(DotNet Lab)\OnTop\OnTop\obj\Debug\OnTop.xml
+G:\Desenvolvimento\(DotNet Lab)\OnTop\OnTop\obj\Debug\OnTop.pdb
+G:\Desenvolvimento\(DotNet Lab)\OnTop\OnTop\bin\Debug\OnTop.exe.config
+C:\Users\walter\Desktop\OnTop\ontop\bin\Debug\OnTop.exe.config
+C:\Users\walter\Desktop\OnTop\ontop\bin\Debug\OnTop.exe
+C:\Users\walter\Desktop\OnTop\ontop\bin\Debug\OnTop.pdb
+C:\Users\walter\Desktop\OnTop\ontop\bin\Debug\OnTop.xml
+C:\Users\walter\Desktop\OnTop\ontop\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\walter\Desktop\OnTop\ontop\obj\Debug\OnTop.frmMain.resources
+C:\Users\walter\Desktop\OnTop\ontop\obj\Debug\OnTop.frmAbout.resources
+C:\Users\walter\Desktop\OnTop\ontop\obj\Debug\OnTop.frmSettings.resources
+C:\Users\walter\Desktop\OnTop\ontop\obj\Debug\OnTop.Resources.resources
+C:\Users\walter\Desktop\OnTop\ontop\obj\Debug\OnTop.vbproj.GenerateResource.Cache
+C:\Users\walter\Desktop\OnTop\ontop\obj\Debug\OnTop.exe
+C:\Users\walter\Desktop\OnTop\ontop\obj\Debug\OnTop.xml
+C:\Users\walter\Desktop\OnTop\ontop\obj\Debug\OnTop.pdb
+F:\Dados\Dropbox\Codigo\OnTop\OnTop\bin\Debug\OnTop.exe.config
+F:\Dados\Dropbox\Codigo\OnTop\OnTop\bin\Debug\OnTop.exe
+F:\Dados\Dropbox\Codigo\OnTop\OnTop\bin\Debug\OnTop.pdb
+F:\Dados\Dropbox\Codigo\OnTop\OnTop\bin\Debug\OnTop.xml
+F:\Dados\Dropbox\Codigo\OnTop\OnTop\obj\Debug\ResolveAssemblyReference.cache
+F:\Dados\Dropbox\Codigo\OnTop\OnTop\obj\Debug\OnTop.frmMain.resources
+F:\Dados\Dropbox\Codigo\OnTop\OnTop\obj\Debug\OnTop.frmAbout.resources
+F:\Dados\Dropbox\Codigo\OnTop\OnTop\obj\Debug\OnTop.frmSettings.resources
+F:\Dados\Dropbox\Codigo\OnTop\OnTop\obj\Debug\OnTop.Resources.resources
+F:\Dados\Dropbox\Codigo\OnTop\OnTop\obj\Debug\OnTop.vbproj.GenerateResource.Cache
+F:\Dados\Dropbox\Codigo\OnTop\OnTop\obj\Debug\OnTop.exe
+F:\Dados\Dropbox\Codigo\OnTop\OnTop\obj\Debug\OnTop.xml
+F:\Dados\Dropbox\Codigo\OnTop\OnTop\obj\Debug\OnTop.pdb
